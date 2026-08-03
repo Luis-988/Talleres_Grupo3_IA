@@ -1,2 +1,2 @@
-# Taller-1_IA
-Taller 1 IA busqueda A*
+# ia
+Inteligencia Artificial - Ingeniería de Sistemas - Universidad del Norte - Eduardo Zurek, Ph.D.
