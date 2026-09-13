@@ -1,0 +1,4 @@
+data/raw_zip/
+data/arff_files/
+*.zip
+.ipynb_checkpoints/
